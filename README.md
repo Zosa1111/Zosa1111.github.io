@@ -73,7 +73,7 @@ For this project, I created an interactive guessing game where players try to gu
 For this project, I created a gym-themed trivia webpage featuring 15 questions about muscle anatomy, strength training, nutrition, and common gym terminology. Users can test their knowledge by reading each question and clicking on it to reveal the correct answer. I wanted to make it both educational and fun, especially for people who enjoy fitness and working out.
 
 💻 This project helped me practice organizing webpage content with HTML, connecting CSS and JavaScript files, and using interactive elements to make a webpage more engaging. It also gave me more experience with creating something that users can actually interact with rather than just read.
-
+<https://zosa1111.github.io/Gym-Trivia/>
 
 
 
