@@ -1,4 +1,3 @@
-<img width="1894" height="821" alt="Screenshot 2026-11-15 013520" src="https://github.com/user-attachments/assets/e025e280-b41a-4318-89fc-aeaa53fcfee4" />
 # Zosa's Portfolio 
 👋 Welcome to Zosa's Coding Portfolio! 💻🚀
 
@@ -94,6 +93,8 @@ For this project, I created an interactive weather forecast webpage that display
 💻 This project helped me practice working with dropdown menus, displaying data, creating charts, and using JavaScript to make a webpage interactive. It also gave me experience presenting information in a visual way rather than just displaying numbers and text.
 
 <img width="942" height="800" alt="Screenshot 2026-11-15 014425" src="https://github.com/user-attachments/assets/f406da64-9618-4c2b-aa9b-19c104dd5c78" />
+
+<https://zosa1111.github.io/Weather-Web/>
 
 
 
