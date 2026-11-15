@@ -76,6 +76,8 @@ For this project, I created an interactive guessing game where players try to gu
 
 <img width="957" height="413" alt="Screenshot 2026-10-19 173655" src="https://github.com/user-attachments/assets/188abfde-b260-457a-8091-9319cd73f1d7" />
 
+<https://zosa1111.github.io/Random-Number-Generator-/>
+
 ##💪 **Gym Trivia – Interactive Quiz**
 
 For this project, I created a gym-themed trivia webpage featuring 15 questions about muscle anatomy, strength training, nutrition, and common gym terminology. Users can test their knowledge by reading each question and clicking on it to reveal the correct answer. I wanted to make it both educational and fun, especially for people who enjoy fitness and working out.
