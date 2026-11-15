@@ -1,3 +1,4 @@
+<img width="1894" height="821" alt="Screenshot 2026-11-15 013520" src="https://github.com/user-attachments/assets/e025e280-b41a-4318-89fc-aeaa53fcfee4" />
 # Zosa's Portfolio 
 👋 Welcome to Zosa's Coding Portfolio! 💻🚀
 
@@ -82,7 +83,19 @@ For this project, I created a gym-themed trivia webpage featuring 15 questions a
 
 💻 This project helped me practice organizing webpage content with HTML, connecting CSS and JavaScript files, and using interactive elements to make a webpage more engaging. It also gave me more experience with creating something that users can actually interact with rather than just read.
 
+<img width="1894" height="821" alt="Screenshot 2026-11-15 013520" src="https://github.com/user-attachments/assets/649b5666-4643-4269-a9e0-c111875aca9f" />
+
 <https://zosa1111.github.io/Gym-Trivia/>
+
+##🌡️ Temperature Forecast – Interactive Weather Dashboard
+
+For this project, I created an interactive weather forecast webpage that displays temperature information for different cities, including Chicago, New York, Los Angeles, Miami, and Dallas. Users can select a city from a dropdown menu and view its latest observed temperature along with an hourly forecast displayed using a bar chart. I also used different colors to represent temperature ranges, making the information easier to understand.
+
+💻 This project helped me practice working with dropdown menus, displaying data, creating charts, and using JavaScript to make a webpage interactive. It also gave me experience presenting information in a visual way rather than just displaying numbers and text.
+
+<img width="942" height="800" alt="Screenshot 2026-11-15 014425" src="https://github.com/user-attachments/assets/f406da64-9618-4c2b-aa9b-19c104dd5c78" />
+
+
 
 
 
